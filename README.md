@@ -4,7 +4,7 @@
 The app takes the user's text input and changes the display to the user's input. The app also has the options to change the text color and screen background color to previously set colors.
 
 ### App Walk-though
-<img src="https://i.imgur.com/mjTxhAt.gifv" width=200><br>
+<img src="https://i.imgur.com/mjTxhAt.gif" width=200><br>
 
 
 ### Required User Stories
