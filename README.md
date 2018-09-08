@@ -4,7 +4,8 @@
 The app takes the user's text input and changes the display to the user's input. The app also has the options to change the text color and screen background color to previously set colors.
 
 ### App Walk-though
-<a href="https://imgflip.com/gif/2hhcv0"><img src="https://i.imgflip.com/2hhcv0.gif" title="made at imgflip.com"/></a>
+<img src="https://i.imgur.com/mjTxhAt.gifv" width=200><br>
+
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
